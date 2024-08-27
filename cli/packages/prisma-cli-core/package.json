@@ -109,7 +109,7 @@
     "prisma-generate-schema": "1.20.4",
     "prisma-yml": "1.0.95",
     "scuid": "^1.0.2",
-    "semver": "^5.7.2",
+    "semver": "^6.3.1",
     "sillyname": "^0.1.0",
     "source-map-support": "^0.4.18",
     "table": "^4.0.1"
