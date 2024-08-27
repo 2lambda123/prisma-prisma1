@@ -22,7 +22,7 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "ajv": "6",
+    "ajv": "8",
     "bluebird": "^3.5.1",
     "chalk": "^2.3.0",
     "debug": "^3.2.7",
@@ -30,7 +30,7 @@
     "fs-extra": "^7.0.0",
     "graphql-request": "^1.5.0",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^7.0.5",
     "isomorphic-fetch": "^2.2.1",
     "js-yaml": "^3.10.0",
     "json-stable-stringify": "^1.0.1",
