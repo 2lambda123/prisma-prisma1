@@ -83,7 +83,7 @@
     "callsites": "^2.0.0",
     "chalk": "^2.3.0",
     "clipboardy": "^1.2.3",
-    "cross-spawn": "^7.0.5",
+    "cross-spawn": "^7.0.6",
     "express": "^4.20.0",
     "express-request-proxy": "^2.0.0",
     "figures": "^2.0.0",
